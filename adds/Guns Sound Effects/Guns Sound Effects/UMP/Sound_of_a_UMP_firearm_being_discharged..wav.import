@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://gnlvq882tslq"
+path="res://.godot/imported/Sound_of_a_UMP_firearm_being_discharged..wav-4b0f8a4313f01468249aef1c5752fcfd.sample"
+
+[deps]
+
+source_file="res://adds/Guns Sound Effects/Guns Sound Effects/UMP/Sound_of_a_UMP_firearm_being_discharged..wav"
+dest_files=["res://.godot/imported/Sound_of_a_UMP_firearm_being_discharged..wav-4b0f8a4313f01468249aef1c5752fcfd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

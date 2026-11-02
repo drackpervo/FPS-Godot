@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dca5fwcptckx3"
+path="res://.godot/imported/Sound_of_an_AK47_being_fired. (1).wav-3d94069cc19ae8555d4bcf7765b3c36c.sample"
+
+[deps]
+
+source_file="res://adds/Guns Sound Effects/Guns Sound Effects/AK47/Sound_of_an_AK47_being_fired. (1).wav"
+dest_files=["res://.godot/imported/Sound_of_an_AK47_being_fired. (1).wav-3d94069cc19ae8555d4bcf7765b3c36c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
